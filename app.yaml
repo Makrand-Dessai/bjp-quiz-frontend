@@ -1,0 +1,7 @@
+env: standard
+runtime: nodejs18
+service: bjp-quiz-frontend
+handlers:
+ - url: /.*
+secure: always
+script: auto
