@@ -11,7 +11,7 @@ const theme = createMuiTheme({
   typography: {
     fontFamily: 'Arial, sans-serif', // Custom font-family
     h4: {
-      fontWeight: 700,
+      fontWeight: 700, 
       marginBottom: '1rem',
     },
     h5: {
