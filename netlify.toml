@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "https://bjp-quiz-frontend-lzy3caj3ca-el.a.run.app"
-  status = 200
-  force = true
